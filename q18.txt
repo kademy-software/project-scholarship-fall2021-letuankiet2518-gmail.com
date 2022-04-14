@@ -1,0 +1,5 @@
+Theo chỉ thị số 16, khoảng cách an toàn là ...m ? 
+a. 1,5 
+b. 2,5 
+c. 2,0
+d. 1,5

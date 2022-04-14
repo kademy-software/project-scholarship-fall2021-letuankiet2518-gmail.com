@@ -1,0 +1,5 @@
+Python hướng đối tượng như thế nào? 
+a. Dựa trên các class và đối tượng 
+b. Python không có lập trình hướng đối tượng 
+c. Để lập trình hướng đối tượng Python cần có 15 chiếc máy tính 
+d. Dựa trên internet

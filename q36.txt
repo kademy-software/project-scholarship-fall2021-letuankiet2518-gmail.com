@@ -1,0 +1,5 @@
+Live App chỉ mở ...phút trước khi vào học ? 
+a. 60
+b. 90
+c. 30
+d. 120

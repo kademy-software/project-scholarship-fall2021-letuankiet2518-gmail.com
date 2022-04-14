@@ -1,0 +1,6 @@
+ Python là ngôn ngữ bậc … ? 
+a. Bậc cao 
+b. Bậc trung bình 
+c. Bậc thấp 
+d. Không có bậc 
+

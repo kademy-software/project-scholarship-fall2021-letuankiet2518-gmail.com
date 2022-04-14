@@ -1,0 +1,5 @@
+Lệnh input trong Python có tác dụng gì? 
+a. Cho phép người dùng in câu lệnh 
+b. In ra chuỗi kí tự được gọi với lệnh 
+c. Cho phép máy tính nói chuyện với bạn 
+d. Không đáp án nào đúng 

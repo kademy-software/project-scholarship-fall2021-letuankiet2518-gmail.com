@@ -1,0 +1,5 @@
+Có tới 7,890,654 files nhưng phải tìm đúng một File chứa vacxin, vậy phương pháp nào tối ưu nhất? 
+A. Tìm kiếm tuần tự 
+B. Tìm kiếm nhị phân 
+C. Dựa theo tâm linh mà chọn đại 
+D. Lười quá, không kiếm 

@@ -1,0 +1,5 @@
+Biến toàn cục khác với biến cục bộ như thế nào ? 
+a. Biến toàn cục có thể được truy xuất bởi bất kỳ hàm nào trong chương trình.
+b. Biến toàn cục được khai báo trong một hàm nhất định 
+c. Biến cục bộ được khai báo trong một hàm nhất định
+d. Đáp án A và C 

@@ -1,0 +1,5 @@
+Enqueue và Dequeue có khác nhau không? 
+a. Không khác nhau 
+b. Enqueue là thao tác của ngăn xếp (stack). Dequeue là thao tác của hàng đợi (queue)
+c. Enqueue dùng để tách hàng đợi. Dequeue dùng để xếp hàng đợi
+d. Trong hàng đợi (queue), thao tác thêm vào là enqueue, thao tác lấy ra là dequeue

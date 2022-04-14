@@ -1,0 +1,5 @@
+Kiểu  dữ liệu nào không có trong Python 
+a. Dữ liệu chuỗi 
+b. Dữ liệu số
+c. Dữ liệu mùi hương
+d. Dữ liệu danh sách

@@ -1,0 +1,5 @@
+> Python là ngôn ngữ lập trình có mã nguồn …? 
+a. Mở 
+b. Đóng 
+c. Một số mở còn một số đóng
+d. Tớ không biết

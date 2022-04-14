@@ -1,0 +1,3 @@
+List và Array khác nhau như thế nào ? 
+a. Array được tối ưu hoá cho các phép tính số học nhưng  Không thể áp dụng các hàm toán học lên list. 
+b. List được tối ưu hoá cho các phép tính số học nhưng  Không thể áp dụng các hàm toán học lên array . 
